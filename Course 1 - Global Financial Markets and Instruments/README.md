@@ -13,7 +13,7 @@ Course link: https://www.coursera.org/learn/global-financial-markets-instruments
 
 I have completed this course and get full marks for all tests.
 
->[Course Grades](https://github.com/PeterQiu0516/Investment-and-Portfolio-Management-Exercise/blob/master/Couse%201:%20Global%20Financial%20Markets%20and%20Instruments/Course%20Grades.jpg)
+>[Course Grades](https://github.com/PeterQiu0516/Rice-Investment-and-Portfolio-Management/blob/master/Course%201%20-%20Global%20Financial%20Markets%20and%20Instruments/Course%20Grades.jpg)
 
 >[Electronic Course Certificate (Coursera Official Sharable Link)](https://www.coursera.org/account/accomplishments/certificate/FX54BURKYDXE)
 
