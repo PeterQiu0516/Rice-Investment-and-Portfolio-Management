@@ -1,0 +1,5 @@
+MVE: E(r) = 0.0776  STD = 0.0819
+rf: E(r) = 0.03
+w = (0.0776-0.03)/4/0.0819^2 = 1.7741 = 177.41%
+
+So the optimal allocation is that the customer should invest 177.41% of her wealth(by borrowing) in the MVE.
