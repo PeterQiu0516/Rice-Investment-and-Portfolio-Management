@@ -12,7 +12,7 @@ In this Specialization, you will learn how to think about, discuss, and formulat
 + You will finish a capstone project and will have mastered the analytical tools, quantitative skills, and practical knowledge necessary for long-term investment management success by the end of the specialization.
 
 **I take this course during my internship as an data analyst at Asset Pro to:**
-+ **Equip my self with knowledge about portfolio management and basic financial knowledge for my first project [RoboAdvisor](https://github.com/PeterQiu0516/RoboAdvisor).**
++ **Equip myself with knowledge about portfolio management and basic financial knowledge for my first project [RoboAdvisor](https://github.com/PeterQiu0516/RoboAdvisor).**
 + **Explore career interests and development opportunities in financial engineering.**
 
 ## Specialization Curriculum
