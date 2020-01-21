@@ -15,14 +15,14 @@ Course link: https://www.coursera.org/learn/portfolio-selection-risk-management
 
 I have completed this course and get full marks for all tests.
 
->[Course Grades](https://github.com/PeterQiu0516/Rice-Investment-and-Portfolio-Management/blob/master/Course%201%20-%20Global%20Financial%20Markets%20and%20Instruments/Course%20Grades.jpg)
+>[Course Grades](https://github.com/PeterQiu0516/Rice-Investment-and-Portfolio-Management/blob/master/Course%202%20-%20Portfolio%20Selection%20and%20Risk%20Management/Course%20Grades.jpg)
 
->[Electronic Course Certificate (Coursera Official Sharable Link)](https://www.coursera.org/account/accomplishments/certificate/FX54BURKYDXE)
+>[Electronic Course Certificate (Coursera Official Sharable Link)](https://www.coursera.org/account/accomplishments/certificate/7AABBNQCF99A)
 
 >[Electronic Course Certificate (LinkedIn Licenses & Certifications)](https://www.linkedin.com/in/%E6%98%8C%E5%85%83-%E9%82%B1-b75857198/)
 
 
->[Electronic Course Certificate (PDF Preview)](https://github.com/PeterQiu0516/Rice-Investment-and-Portfolio-Management/tree/master/Course%201%20-%20Global%20Financial%20Markets%20and%20Instruments/Course%20Certificate%20for%20Global%20Financial%20Markets%20and%20Instruments.pdf)
+>[Electronic Course Certificate (PDF Preview)](https://github.com/PeterQiu0516/Rice-Investment-and-Portfolio-Management/blob/master/Course%202%20-%20Portfolio%20Selection%20and%20Risk%20Management/Course%20Certificate%20for%20Portfolio%20Selection%20and%20Risk%20Management.pdf)
 
->[Electronic Course Certificate (PDF Download)](https://github.com/PeterQiu0516/Investment-and-Portfolio-Management-Exercise/raw/master/Course%201%20-%20Global%20Financial%20Markets%20and%20Instruments/Course%20Certificate%20for%20Global%20Financial%20Markets%20and%20Instruments.pdf)
+>[Electronic Course Certificate (PDF Download)](https://github.com/PeterQiu0516/Rice-Investment-and-Portfolio-Management/raw/master/Course%202%20-%20Portfolio%20Selection%20and%20Risk%20Management/Course%20Certificate%20for%20Portfolio%20Selection%20and%20Risk%20Management.pdf)
 
